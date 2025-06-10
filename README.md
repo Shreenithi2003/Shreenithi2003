@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreenithi2003
-  Im a 3rd year Data Science student passinate and committed to developing real- time solutions that drive meaningful impact within the realm of market research and to come
+  Im a Final Year Data Science student passinate and committed to developing real- time solutions that drive meaningful impact within the realm of market research and to come
   up with impactful outcomes. 
   
 - 👀 I’m interested in Machine Learning , Natural Language Processing , visualizations , Web Developement 
@@ -9,7 +9,7 @@
 
 ### Skills:
 - **Programming Languages: Python, HTML, CSS
-- **Frameworks: TensorFlow,NLTK
+- **Frameworks: TensorFlow,NLTK etc ..
 - Databases: MongoDB , MYSQL
 - **Machine Learning: Currently exploring the realms of neural networks and deep learning , exploring various platforms for visualizations.
 
