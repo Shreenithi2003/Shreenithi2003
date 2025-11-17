@@ -1,31 +1,35 @@
 - 👋 Hi, I’m @Shreenithi2003
-  Im a Final Year Data Science student passinate and committed to developing real- time solutions that drive meaningful impact within the realm of market research and to come
+  Im a Final Year Data Science student (5 years Integrated) passinate and committed to developing real- time solutions that drive meaningful impact within the realm of market research and to come
   up with impactful outcomes. 
   
-- 👀 I’m interested in Machine Learning , Natural Language Processing , visualizations , Web Developement 
-- 🌱 I’m currently learning Deep Learning , LLMs , Hugging Face 
-- 📫 How to reach me : EMAIL : shreenithi032@gmail.com / LINKEDIN : www.linkedin.com/in/shreenithi-m
+- 👀 I’m interested in Machine Learning , Deep learning , Generative AI , Large Language Models , Natural Language Processing , Data Visualizations. 
+- 🌱 I’m currently learning Cloud Platforms
+- 📫 How to reach me : EMAIL : shreenithi2207@gmail.com / LINKEDIN : www.linkedin.com/in/shreenithi-m
 - 😄 Pronouns: she/her
 
 ### Skills:
-- **Programming Languages: Python, HTML, CSS
-- **Frameworks: TensorFlow,NLTK etc ..
-- Databases: MongoDB , MYSQL
-- **Machine Learning: Currently exploring the realms of neural networks and deep learning , exploring various platforms for visualizations.
-
-### Hobbies:
-Apart from this , I usually listen to some amazing podcasts , watch some tedtalk shows and spend my free time trying to replicate things i watch.
+• Languages and Technologies - Python , R  , LLM , Prompting Techniques , RAG , Gen AI                             
+• Frameworks - TensorFlow, Django , Flask , NLTK                                     
+• Database - MySQL, MongoDB  
+• Visualization Tools - Tableau , Power BI , Google Analytics , Gretl               
+• Cloud Platforms  - AWS , (S3 , EC2) , Databricks , Google Cloud  
 
 ### Conferences:
 Invaluable experience of engaging with a diverse community of intellects, including PhD scholars, researchers, and industry leaders at IISc Bangalore✨ 
 A personal highlight was presenting our collaborative paper, "Genetic Markers for Idiopathic Parkinson's Disease Prediction," 
 
+### Hobbies:
+Apart from this , I usually listen to some amazing podcasts , watch some tedtalk shows and spend my free time trying to replicate things i watch.
+
+
 ### Collaboration Opportunities:
 I'm enthusiastic about collaborating on projects related to:
 
-- **Natural Language Processing:** Excited about projects that involve language understanding and generation.
-- **Machine Learning Applications:** Particularly interested in applying machine learning to solve real-world problems.
-- **Web Development:** Love working on web projects, from frontend design to backend functionality.
+- **Natural Language Processing:** language understanding, summarization, information extraction
+- **Machine Learning Applications:** predictive modelling, real-world automation
+- **Generative AI & LLM :** chatbots, fine-tuning, vector search, RAG integration
+- **AI for Social or Industrial Impact**
+
 
 If you have any exciting ideas in these domains or think there's potential for collaboration, please don't hesitate to reach out! Let's build something amazing together! 🚀
 
